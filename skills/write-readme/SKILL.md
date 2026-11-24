@@ -1,6 +1,7 @@
 ---
 name: write-readme
 description: Write, rewrite, simplify, or review a repository README. Use when asked to create or clean up a README, fix stale setup or quickstart instructions, or make a project easier to understand and run from a fresh checkout.
+license: CC-BY-SA-4.0
 ---
 
 # Write a maintainable README

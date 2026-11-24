@@ -13,3 +13,7 @@ DISABLE_TELEMETRY=1 npx --yes skills@1.9.0 add "$SKILLS_REPO" --skill "skill-nam
 ```
 
 This copies the selected skill into the current project, not into your global OpenCode configuration. Change `--agent opencode` if you use another supported agent.
+
+## License
+
+Licensed under [CC BY-SA 4.0](LICENSE). You may share and adapt the skills, including commercially, if you credit the author and release your changes under the same license.
